@@ -47,6 +47,9 @@ export class Clock extends React.Component {
                     <span>{minutes > 9 ? minutes : `0${minutes}`}</span>:
                     <span>{seconds > 9 ? seconds : `0${seconds}`} {ampm}</span>
                 </div>
+                <div>
+                    <i className="material-icons">notifications</i>
+                </div>
             </div>
         );
     }
