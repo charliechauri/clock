@@ -1,6 +1,9 @@
 # Clock:  Simple stateful react component
 
-This project was inspired in [30 days of react](https://www.fullstackreact.com/30-days-of-react/).
+This project was inspired in [30 days of react](https://www.fullstackreact.com/30-days-of-react/) and [UI Element Challenge by James Lucia](https://dribbble.com/shots/2274226-UI-Element-Challenge-Day-072-Clock)
+
+![Clock](./images/clock.gif "Logo Title Text 1")
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
