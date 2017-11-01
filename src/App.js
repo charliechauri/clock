@@ -1,11 +1,10 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
-import './App.css';
+import { Clock } from './Components/Clock/Clock';
 
 class App extends Component {
   render() {
     return (
-      <div>Clock component</div>
+      <Clock />
     );
   }
 }
